@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm Isaac, a passionate developer with a love for 
 ## 📈 GitHub Stats
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacdll23&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isaacdll23&theme=dark)](https://git.io/streak-stats)
 - Might be highly skewed due to private repositories :)
 ---
 
