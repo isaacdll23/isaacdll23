@@ -1,6 +1,6 @@
 ### Hi, I'm Isaac 👋
 
-Software engineer — .NET backends, full-stack TypeScript, and developer tooling. Based in San Marcos, TX.
+Software engineer — .NET backends, full-stack TypeScript, and developer tooling. Based in San Antonio, TX.
 
 Lately into tooling around AI coding agents.
 
